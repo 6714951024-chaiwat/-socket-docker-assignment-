@@ -54,7 +54,8 @@
 3. เปิดเว็บเบราว์เซอร์ไปที่ http://localhost:5000 เพื่อทดสอบส่งข้อความ
 
 ### ตัวอย่างผลการทำงาน
-<img width="1112" height="623" alt="ผลการทำงานแบบฝึกหัดที่ 2" src="https://github.com/user-attachments/assets/877952a1-fe37-4445-9e8c-7c99a72702b6" />
+<img width="603" height="197" alt="Screenshot 2026-11-27 125821" src="https://github.com/user-attachments/assets/5e999076-5b42-4d7e-adf2-f96e290fdae7" />
+<img width="374" height="279" alt="Screenshot 2026-11-27 125814" src="https://github.com/user-attachments/assets/403d5b01-7181-405e-af9e-55376e792401" />
 
 ---
 
