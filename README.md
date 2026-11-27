@@ -1,9 +1,9 @@
 # รายงานแบบฝึกหัด Socket API & Docker (Assignment 1 & 2)
 
 **ข้อมูลผู้จัดทำ**
-* ชื่อ-นามสกุล: [นาย ไชยวัฒน์ แก้วเกตุ]
-* รหัสนักศึกษา: [6714951024]
-* กลุ่ม/เซคชัน: [1]
+* ชื่อ-นามสกุล: นาย ไชยวัฒน์ แก้วเกตุ
+* รหัสนักศึกษา: 6714951024
+* กลุ่ม/เซคชัน: 1
 
 ---
 
@@ -30,6 +30,9 @@
    docker exec -it chat_client2 python client.py
    ```
 
+### ตัวอย่างผลการทำงาน
+<img width="1107" height="626" alt="ผลการทำงานแบบฝึกหัดที่ 1" src="https://github.com/user-attachments/assets/0d34b518-d6a5-4c1a-b2aa-3d1631093122" />
+
 ---
 
 ## แบบฝึกหัดที่ 2: เว็บแอปพลิเคชัน Flask และ Socket Server
@@ -47,6 +50,9 @@
    docker-compose up --build
    ```
 3. เปิดเว็บเบราว์เซอร์ไปที่ http://localhost:5000 เพื่อทดสอบส่งข้อความ
+
+### ตัวอย่างผลการทำงาน
+<img width="1112" height="623" alt="ผลการทำงานแบบฝึกหัดที่ 2" src="https://github.com/user-attachments/assets/877952a1-fe37-4445-9e8c-7c99a72702b6" />
 
 ---
 
