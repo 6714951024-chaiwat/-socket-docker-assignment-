@@ -31,7 +31,9 @@
    ```
 
 ### ตัวอย่างผลการทำงาน
-<<img width="696" height="199" alt="Screenshot 2026-11-27 121153" src="https://github.com/user-attachments/assets/c4cafa82-1eb1-4601-b3df-cecd7ccde242" />/>
+<img width="696" height="199" alt="Screenshot 2026-11-27 121153" src="https://github.com/user-attachments/assets/c4cafa82-1eb1-4601-b3df-cecd7ccde242" />
+<img width="246" height="197" alt="Screenshot 2026-11-27 121217" src="https://github.com/user-attachments/assets/8c02136d-89c1-4763-b19f-1e70a636fb96" />
+
 
 ---
 
