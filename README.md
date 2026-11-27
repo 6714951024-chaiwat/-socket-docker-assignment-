@@ -31,7 +31,7 @@
    ```
 
 ### ตัวอย่างผลการทำงาน
-<img width="1107" height="626" alt="ผลการทำงานแบบฝึกหัดที่ 1" src="https://github.com/user-attachments/assets/0d34b518-d6a5-4c1a-b2aa-3d1631093122" />
+<<img width="696" height="199" alt="Screenshot 2026-11-27 121153" src="https://github.com/user-attachments/assets/c4cafa82-1eb1-4601-b3df-cecd7ccde242" />/>
 
 ---
 
